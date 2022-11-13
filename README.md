@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dinesh-Surya-Sai
 - 👀 I’m interested in Data Science Field
-- 🌱 I’m currently learning Data Science in Innomatics Research Labs 
+- 🌱 I’m currently learning Data Science at Innomatics Research Labs 
 - 💞️ I’m looking a change to work with good organization
